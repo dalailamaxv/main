@@ -1,6 +1,6 @@
 // Diffie-Hellman
-const primeNum = 23;
-const genOfP = 31;
+const primeNum = 31;
+const genOfP = 23;
 is_prime(primeNum);
 
 let privateKeyAlice = random_key(0, 100);
